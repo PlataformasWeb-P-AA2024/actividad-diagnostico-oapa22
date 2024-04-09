@@ -21,6 +21,7 @@ El comando pwd se utiliza para ver la dirección en la cual se encuentra la term
 <img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-oapa22/blob/main/imagenes/PWD.png" width="800px">
 </p>
 </div>
+
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
