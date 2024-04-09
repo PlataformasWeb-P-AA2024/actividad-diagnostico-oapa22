@@ -18,7 +18,7 @@ Listar el contenido del directorio
 El comando pwd se utiliza para ver la dirección en la cual se encuentra la terminal.
 <div>
 <p style = 'text-align:center;'>
-<img src="C:\Users\antho\Documents\actividad-diagnostico-oapa22\imagenes\PWD" width="800px">
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-oapa22/blob/main/imagenes/PWD.png" width="800px">
 </p>
 </div>
 ### 8. Ejemplifique el comando de Linux: touch
