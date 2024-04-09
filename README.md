@@ -15,6 +15,12 @@ Crear un archivo en un directorio
 ### 6. Ejemplifique el comando de Linux: ls
 Listar el contenido del directorio
 ### 7. Ejemplifique el comando de Linux: pwd
+El comando pwd se utiliza para ver la dirección en la cual se encuentra la terminal.
+<div>
+<p style = 'text-align:center;'>
+<img src="C:\Users\antho\Documents\actividad-diagnostico-oapa22\imagenes\PWD" width="800px">
+</p>
+</div>
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
