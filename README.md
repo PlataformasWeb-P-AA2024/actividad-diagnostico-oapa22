@@ -5,8 +5,11 @@
 Java, Scala, JavaScript, TypeScript
 ### 2. ¿Qué comandos conoce de GIT?
 git add .
+
 git commit -a -m ""
+
 git push
+
 git clone
 ### 3. Ejemplifique el comando de Linux: mv
 El comando mv se utiliza para mover un archivo a otro directorio, primero se especifica el archivo a mover y después se coloca la dirección destino.
