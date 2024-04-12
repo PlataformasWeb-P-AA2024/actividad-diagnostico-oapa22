@@ -52,7 +52,21 @@ El comando pwd se utiliza para ver la dirección en la cual se encuentra la term
 </div>
 
 ### 8. Ejemplifique el comando de Linux: touch
+El comando touch se utiliza para crear uno o varios archivos, si el archivo ya existe, actualizará la hora de modificación, pero sin hacer cambios en el archivo.
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-oapa22/blob/main/imagenes/8.png" width="800px">
+</p>
+</div>
+
 ### 9. Ejemplifique el comando de Linux: grep
+El comando grep se utiliza para hacer búsquedas o conteos en un archivo de texto.
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-oapa22/blob/main/imagenes/9.png" width="800px">
+</p>
+</div>
+
 ### 10. Ejemplifique el comando de Linux: cd
 El comando cd se utiliza para que la terminal se coloque en la dirección deseada.
 <div>
