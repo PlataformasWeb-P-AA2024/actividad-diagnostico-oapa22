@@ -2,7 +2,7 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
-Java, Scala, JavaScript, TypeScript
+Java, Scala, HTML, JavaScript, TypeScript
 ### 2. ¿Qué comandos conoce de GIT?
 git add .
 
